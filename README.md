@@ -28,3 +28,5 @@ soluções que facilitem a vida das pessoas.
 <a href="mailto:carlosandrealmeidasantiago@gmail.com"><img align="center" src="https://github.com/user-attachments/assets/bb8e7036-26ac-4080-98bb-2636c271b18d" alt="" height="32" width="37"/></a>
 <a href="https://www.instagram.com/_dedesantiago01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
+[![Dedé Stats](https://github-readme-stats.vercel.app/api?username=CarlosA0102)](https://github.com/anuraghazra/github-readme-stats)
+
